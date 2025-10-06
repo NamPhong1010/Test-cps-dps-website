@@ -1,2 +1,2 @@
-# Test-cps-dps-website
-A web can help you check your cps and dps
+# Nam Phong's place
+Just for fun
